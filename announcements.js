@@ -20,7 +20,7 @@ const data = [
           <p class="smallspottext" style="text-align: center;">Liebe Gäste, wir haben vom</p>
           <p class="smallspottext" style="text-align: center;"><span style="font-weight: bold;">Sonntag 22. Dezember 2024</span> <span
               style="font-weight: bold;">bis Sonntag 05. Januar 2025 Weihnachtsferien</span>.</p>
-          <p class="smallspottext" style="text-align: center;">Wir freuen uns, euch ab Dienstag 06.01.2025 wieder
+          <p class="smallspottext" style="text-align: center;">Wir freuen uns, euch ab Montag 06.01.2025 wieder
             in Lachen begrüssen zu dürfen!</p>
         </div>
       `
