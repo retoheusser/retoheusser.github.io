@@ -9,6 +9,19 @@ const data = [
               style="font-weight: bold;">bis Sonntag 05. Januar 2025 Weihnachtsferien</span>.</p>
           <p class="smallspottext" style="text-align: center;">Wir freuen uns, euch ab Montag 06.01.2025 wieder
             in Lachen begrüssen zu dürfen!</p>
+            <br>
+          <p class="smallspottext" style="text-align: center;">Ab 2025 werden wir unsere Preise leicht anpassen,</p>
+          <p class="smallspottext" style="text-align: center;">um weiterhin die gewohnt hohe Qualität unserer Speisen und Dienstleistungen gewährleisten zu können.</p>
+        </div>
+      `
+  },
+  {
+    start: "2025-01-06T00:00:00.000Z",
+    end: "2025-01-31T00:00:00.000Z",
+    text: `
+        <div class="module text">
+          <p class="smallspottext" style="text-align: center;">Liebe Gäste, ab 2025 sind unsere Preise leicht angepasst,</p>
+          <p class="smallspottext" style="text-align: center;">um weiterhin die gewohnt hohe Qualität unserer Speisen und Dienstleistungen gewährleisten zu können.</p>
         </div>
       `
   },
