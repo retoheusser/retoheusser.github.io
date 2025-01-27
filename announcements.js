@@ -1,18 +1,14 @@
 const data = [
   {
-    start: "2024-12-20T00:00:00.000Z",
-    end: "2025-01-06T00:00:00.000Z",
+    start: "2025-01-27T00:00:00.000Z",
+    end: "2025-01-29T00:00:00.000Z",
     text: `
         <div class="module text">
           <p class="smallspottext" style="text-align: center;">Liebe Gäste,</p>
-          <p class="smallspottext" style="text-align: center;">Ein herzliches Dankeschön für eure Unterstützung und euer Vertrauen im vergangenen Jahr!</p>
-          <p class="smallspottext" style="text-align: center;"><span style="font-weight: bold;">Wir haben vom Sonntag 22. Dezember 2024</span> <span
-              style="font-weight: bold;">bis Sonntag 05. Januar 2025 Weihnachtsferien</span>.</p>
-          <p class="smallspottext" style="text-align: center;">Wir freuen uns, euch ab Montag 06.01.2025 wieder
-            in Lachen begrüssen zu dürfen!</p>
-            <br>
-          <p class="smallspottext" style="text-align: center;">Ab 2025 werden wir unsere Preise leicht anpassen,</p>
-          <p class="smallspottext" style="text-align: center;">um weiterhin die gewohnt hohe Qualität unserer Speisen und Dienstleistungen gewährleisten zu können.</p>
+          <p class="smallspottext" style="text-align: center;">Wir feiern das chinesische Neuhjahr 2025!</p>
+          <p class="smallspottext" style="text-align: center;"><span style="font-weight: bold;">Deshalb bleiben wir am 28. Januar geschlossen</span> <span
+              style="font-weight: bold;">Wir freuen uns, euch ab 29. Januar wieder in Lachen begrüssen zu dürfen.
+            </span>.</p>
         </div>
       `
   },
