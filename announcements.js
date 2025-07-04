@@ -60,13 +60,13 @@ const data = [
       `
   },
   {
-    start: "2025-05-02T00:00:00.000Z",
-    end: "2025-05-03T00:00:00.000Z",
+    start: "2025-07-04T00:00:00.000Z",
+    end: "2025-07-06T00:00:00.000Z",
     text: `
         <div class="module text">
-          <p class="smallspottext" style="text-align: center;">Liebe Gäste, wir sind am</p>
-          <p class="smallspottext" style="text-align: center;"><span style="font-weight: bold;">Samstag 3. Mai</span> <span
-              style="font-weight: bold;">am Lachen Markt</span>.</p>
+          <p class="smallspottext" style="text-align: center;">Liebe Gäste, wir sind vom</p>
+          <p class="smallspottext" style="text-align: center;"><span style="font-weight: bold;">Freitag 4. Juli bis Sonntag 6. Juli</span> <span
+              style="font-weight: bold;">am Wettingerfest und haben deshalb geschlossen</span>.</p>
         </div>
       `
   },
