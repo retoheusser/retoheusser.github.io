@@ -1,13 +1,13 @@
 const data = [
   {
-    start: "2025-01-27T00:00:00.000Z",
-    end: "2025-01-29T00:00:00.000Z",
+    start: "2025-08-01T00:00:00.000Z",
+    end: "2025-08-04T00:00:00.000Z",
     text: `
         <div class="module text">
           <p class="smallspottext" style="text-align: center;">Liebe Gäste,</p>
-          <p class="smallspottext" style="text-align: center;">Wir feiern das chinesische Neuhjahr 2025!</p>
-          <p class="smallspottext" style="text-align: center;"><span style="font-weight: bold;">Deshalb bleiben wir am 28. Januar geschlossen</span> <span
-              style="font-weight: bold;">Wir freuen uns, euch ab 29. Januar wieder in Lachen begrüssen zu dürfen.
+          <p class="smallspottext" style="text-align: center;">Die Schweiz hat Geburtstag!</p>
+          <p class="smallspottext" style="text-align: center;"><span style="font-weight: bold;">Deshalb bleiben wir vom 1. bis 3. August 2025 geschlossen</span> <span
+              style="font-weight: bold;">Wir freuen uns, euch ab dem 4. August 2025 wieder in Lachen begrüssen zu dürfen.
             </span>.</p>
         </div>
       `
