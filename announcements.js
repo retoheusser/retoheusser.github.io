@@ -14,7 +14,7 @@ const data = [
   },
   {
     start: "2025-11-14T00:00:00.000Z",
-    end: "2026-03-31T:00:00.000Z",
+    end: "2026-03-31T00:00.000Z",
     text: `
         <div class="module text">
           <p class="smallspottext" style="text-align: center;">Liebe Gäste, ab 2026 passen wir unsere Öffnungszeiten an.</p>
