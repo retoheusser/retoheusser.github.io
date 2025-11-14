@@ -13,12 +13,12 @@ const data = [
       `
   },
   {
-    start: "2025-01-06T00:00:00.000Z",
-    end: "2025-01-31T00:00:00.000Z",
+    start: "2025-11-14T00:00:00.000Z",
+    end: "2026-03-T31:00:00.000Z",
     text: `
         <div class="module text">
-          <p class="smallspottext" style="text-align: center;">Liebe Gäste, ab 2025 sind unsere Preise leicht angepasst,</p>
-          <p class="smallspottext" style="text-align: center;">um weiterhin die gewohnt hohe Qualität unserer Speisen und Dienstleistungen gewährleisten zu können.</p>
+          <p class="smallspottext" style="text-align: center;">Liebe Gäste, ab 2026 passen wir unsere Öffnungszeiten an.</p>
+          <p class="smallspottext" style="text-align: center;">NEU ist der Samstag künftig unser zusätzlicher Ruhetag.</p>
         </div>
       `
   },
