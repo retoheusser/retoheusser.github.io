@@ -1,13 +1,13 @@
 const data = [
   {
-    start: "2025-10-20T00:00:00.000Z",
-    end: "2025-11-11T00:00:00.000Z",
+    start: "2025-12-16T00:00:00.000Z",
+    end: "2026-01-07T00:00:00.000Z",
     text: `
         <div class="module text">
-          <p class="smallspottext" style="text-align: center;">Liebe Gäste,</p>
-          <p class="smallspottext" style="text-align: center;">Wir sind an der Basler Herbstmesse!</p>
-          <p class="smallspottext" style="text-align: center;"><span style="font-weight: bold;">vom 25. Oktober bis 10. November 2025 bleibt unser Takeaway deshalb geschlossen.</span> <span
-              style="font-weight: bold;">Wir freuen uns, euch ab dem 11. November 2025 wieder in Lachen begrüssen zu dürfen.
+          <p class="smallspottext" style="text-align: center;">Wir wünschen allen schöne Festtage und einen guten Rutsch!!!:</p>
+          <p class="smallspottext" style="text-align: center;">24. Dezember bis 13:30 Uhr geöffnet</p>
+          <p class="smallspottext" style="text-align: center;"><span style="font-weight: bold;">vom 25. Dezember bis 06. Januar ist unser Takeaway geschlossen.</span> <span
+              style="font-weight: bold;">Wir freuen uns, euch ab dem 07. Januar 2026 wieder in Lachen begrüssen zu dürfen.
             </span>.</p>
         </div>
       `
