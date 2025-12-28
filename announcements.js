@@ -7,8 +7,7 @@ const data = [
           <p class="smallspottext" style="text-align: center;">Wir wünschen allen schöne Festtage und einen guten Rutsch!!!:</p>
           <p class="smallspottext" style="text-align: center;">24. Dezember bis 13:30 Uhr geöffnet</p>
           <p class="smallspottext" style="text-align: center;"><span style="font-weight: bold;">vom 25. Dezember bis 06. Januar ist unser Takeaway geschlossen.</span> <span
-              style="font-weight: bold;">Wir freuen uns, euch ab dem 07. Januar 2026 wieder in Lachen begrüssen zu dürfen.
-            </span>.</p>
+              style="font-weight: bold;">Wir freuen uns, euch ab dem 07. Januar 2026 wieder in Lachen begrüssen zu dürfen</span>
         </div>
       `
   },
