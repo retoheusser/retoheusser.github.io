@@ -13,7 +13,7 @@ const data = [
   },
   {
     start: "2025-11-14T00:00:00.000Z",
-    end: "2026-03-31T00:00:00.000Z",
+    end: "2026-03-29T00:00:00.000Z",
     text: `
         <div class="module text">
           <p class="smallspottext" style="text-align: center;">Liebe Gäste, ab 2026 passen wir unsere Öffnungszeiten an.</p>
@@ -22,14 +22,14 @@ const data = [
       `
   },
   {
-    start: "2025-04-16T00:00:00.000Z",
-    end: "2025-04-22T00:00:00.000Z",
+    start: "2026-03-29T00:00:00.000Z",
+    end: "2026-04-07T00:00:00.000Z",
     text: `
         <div class="module text">
           <p class="smallspottext" style="text-align: center;">Liebe Gäste, wir haben vom</p>
-          <p class="smallspottext" style="text-align: center;"><span style="font-weight: bold;">Freitag 18. April</span> <span
-              style="font-weight: bold;">bis Montag 21. April 2025 wegen Ostern geschlossen</span>.</p>
-          <p class="smallspottext" style="text-align: center;">Wir freuen uns, euch ab Dienstag 22.04.2025 wieder
+          <p class="smallspottext" style="text-align: center;"><span style="font-weight: bold;">Karfreitag 03. April</span> <span
+              style="font-weight: bold;">bis Ostermontag 06. April 2026 wegen Ostern geschlossen</span>.</p>
+          <p class="smallspottext" style="text-align: center;">Wir freuen uns, euch ab Dienstag 07.04.2026 wieder
             in Lachen begrüssen zu dürfen!</p>
         </div>
       `
