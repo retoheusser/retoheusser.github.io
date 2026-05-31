@@ -22,14 +22,14 @@ const data = [
       `
   },
   {
-    start: "2026-03-29T00:00:00.000Z",
-    end: "2026-04-07T00:00:00.000Z",
+    start: "2026-05-31T00:00:00.000Z",
+    end: "2026-06-06T00:00:00.000Z",
     text: `
         <div class="module text">
           <p class="smallspottext" style="text-align: center;">Liebe Gäste, wir haben vom</p>
-          <p class="smallspottext" style="text-align: center;"><span style="font-weight: bold;">Karfreitag 03. April</span> <span
-              style="font-weight: bold;">bis Ostermontag 06. April 2026 wegen Ostern geschlossen</span>.</p>
-          <p class="smallspottext" style="text-align: center;">Wir freuen uns, euch ab Dienstag 07.04.2026 wieder
+          <p class="smallspottext" style="text-align: center;"><span style="font-weight: bold;">Montag 01. Juni 2026</span> <span
+              style="font-weight: bold;">bis Freitag 05. Juni 2026 geschlossen</span>.</p>
+          <p class="smallspottext" style="text-align: center;">Wir freuen uns, euch ab Montag 08.06.2026 wieder
             in Lachen begrüssen zu dürfen!</p>
         </div>
       `
